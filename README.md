@@ -4,9 +4,31 @@
 
 Hi there 👋
 
-Although I have several years of experience with pc software and hardware repair, I'm new to coding and am working on getting up to speed as a web developer. I am currently studying Web design and development at Humber College. 
+I’m Adil Surve, a Full-Stack Developer with a solid background in PC hardware and software repair and newly certified in Web Design & Development from Humber College (graduating November 2025).
 
+My journey started in IT support, where I learned the value of problem-solving and troubleshooting. Now, I’ve expanded that foundation into building modern web applications that are responsive, user-friendly, and scalable.
 
-[This is a link to the program I am currently enrolled in](https://mediaarts.humber.ca/programs/web-development.html)
+💻 Technical Skills
 
+Frontend: HTML, CSS, JavaScript, React.js, TypeScript
+
+Backend: Node.js, Express.js, C#, PHP/Laravel
+
+Databases: MongoDB, MySQL, SQL Server, Firebase
+
+Cloud & Tools: Google Cloud, Firebase Hosting, Git/GitHub, CI/CD pipelines
+
+🚀 Projects
+
+Activity Planner App – React + Node.js app integrating Weather & Event APIs
+
+Masjid Finder – Full-stack app with Google Maps APIs & MongoDB
+
+SEO & PPC Marketing Site – Responsive Laravel/Bootstrap project with analytics
+
+Reading Room – ASP.NET MVC app with SQL Server & authentication
+
+💡 I enjoy learning by doing, whether that’s building full-stack apps, configuring servers, or deploying to the cloud.
+
+📌 Now that I’ve completed my program, I’m looking for opportunities to contribute as a Full-Stack Developer, leveraging both my hands-on IT experience and web development expertise.
 
