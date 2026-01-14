@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-I’m **Adil Surve**, a **Full-Stack Developer** with a solid background in **PC hardware and software repair** and newly certified in **Web Design & Development** from Humber College (graduating **November 2025**).
+I’m **Adil Surve**, a **Full-Stack Developer** with a solid background in **PC hardware and software repair** and certified in **Web Design & Development** from Humber College.
 
 My journey started in IT support, where I learned the value of problem-solving and troubleshooting. Now, I’ve expanded that foundation into building **modern web applications** that are **responsive, user-friendly, and scalable**.
 
